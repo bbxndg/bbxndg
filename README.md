@@ -1,9 +1,9 @@
-# Benjamin Garforth 
+# Benjamin Garforth (Ben)
 
-- 3rd year Computer Engineering student @ KMUTT 
-- Software QA @ Biggest Lab 
+- **3rd** year Computer Engineering student @ KMUTT | Aug 2024 - Present
+- Software QA Tester @ Biggest Lab | May 2024 - Present
 - Based in Bangkok, Thailand 
-- Mode: Software & AI Development practitioner & learner 
+- **Mode:** Software & AI Development practitioner & learner 
 
 ## Tech 
 
