@@ -1,7 +1,7 @@
 # Benjamin Garforth (Ben)
 
 - **3rd** year Computer Engineering student @ **KMUTT** | **Aug 2024** - **Present**
-- Software QA Tester @ Biggest Lab | **May 2024** - **Present**
+- Software QA Tester @ **Biggest Lab** | **May 2024** - **Present**
 - Based in Bangkok, Thailand 
 - **Mode:** Software & AI Development practitioner & learner 
 
@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgresql,docker,git)](https://skillicons.dev)
 
 ### Learning Milestones
-[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,fastapi,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,fastapi,angular,pytorch,sklearn,langchain)](https://skillicons.dev)
 
 ## Experience
 
@@ -26,7 +26,9 @@
 
 ## Project
 
-### Personal Project | Undergoing
+### Personal Project 
+
+### [Undergoing](https://github.com/bbxndg)
 
 ### University Project 
 
