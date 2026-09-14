@@ -30,19 +30,21 @@
 
 ### [Undergoing](https://github.com/bbxndg)
 
+---
+
 ### University Project 
 
 ### [Toktickit](https://github.com/bbxndg/Toktickit)
 - A production-ready full-stack IT Service Desk ticketing application.
-- Tech: React 19, TypeScript, Vite, Bootstrap 5, Node.js (Express v5), Prisma ORM, and PostgreSQL
+- **Tech:** React 19, TypeScript, Vite, Bootstrap 5, Node.js (Express v5), Prisma ORM, and PostgreSQL
 
 ### [Maze-Runner](https://github.com/bbxndg/Maze-Runner)
 - Demonstrating each algorithm (AStar, BFS, Dijkstra, Genegic) for solving a given maze puzzle.
-- Tech: Java
+- **Tech:** Java
 
 ### [MK-Transit](https://github.com/bbxndg/MK-Transit)
 - A metro route display system developed to assist users in finding the most suitable routes for traveling via various electric train lines within Bangkok and its metropolitan area.
-- Tech: Java, JavaFX (front-end), Gradle
+- **Tech:** Java, JavaFX (front-end), Gradle
 
 ## Contact
 
