@@ -4,7 +4,8 @@
 - Software QA Tester @ **Biggest Lab** | **May 2024** - **Present**
 - Based in Bangkok, Thailand 
 - **Mode:** Software & AI Development practitioner & learner 
-- A heavy user of [![My Skills](https://skillicons.dev/icons?i=spotify)](https://skillicons.dev)
+- A heavy user of 
+[![My Skills](https://skillicons.dev/icons?i=spotify)](https://skillicons.dev)
 
 ## Tech 
 
