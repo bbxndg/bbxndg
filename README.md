@@ -4,7 +4,7 @@
 - Software QA Tester @ **Biggest Lab** | **May 2024** - **Present**
 - Based in Bangkok, Thailand 
 - **Mode:** Software & AI Development practitioner & learner 
-- A heavy user of <a href="https://open.spotify.com/"><img src="https://skillicons.dev/icons?i=spotify" width="24" alt="Spotify" align="middle"></a>
+- A heavy user of <a href="https://open.spotify.com/user/31h3w5opf6cuv6v6k5syhqxjagsa?si=8a765c4eac224eef&nd=1&dlsi=453e1586306b45e8"><img src="https://skillicons.dev/icons?i=spotify" width="24" alt="Spotify" align="middle"></a>
 
 ## Tech 
 
@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,linux,postgresql,docker,git)](https://skillicons.dev)
 
 ### Learning Milestones
-[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,fastapi,angular,pytorch,sklearn,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,fastapi,angular,pytorch,sklearn)](https://skillicons.dev)
 
 ## Experience
 
