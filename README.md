@@ -4,7 +4,7 @@
 - Software QA Tester @ **Biggest Lab** | **May 2024** - **Present**
 - Based in Bangkok, Thailand 
 - **Mode:** Software & AI Development practitioner & learner 
-- A heavy user of <a href="https://open.spotify.com/"><img src="https://skillicons.dev/icons?i=spotify" width="28" alt="Spotify"></a>
+- A heavy user of <a href="https://open.spotify.com/"><img src="https://skillicons.dev/icons?i=spotify" width="24" alt="Spotify" align="middle"></a>
 
 ## Tech 
 
