@@ -29,7 +29,9 @@
 
 ### Personal Project 
 
-### [Undergoing](https://github.com/bbxndg)
+### [KickIn](https://github.com/bbxndg) - Under gogin
+
+### [X](https://github.com/bbxndg) - Blocked by `KickIn`
 
 ---
 
