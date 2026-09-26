@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,linux,postgresql,docker,git)](https://skillicons.dev)
 
 ### Learning Milestones
-[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,fastapi,angular,pytorch,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,go,spring,dotnet,nest,fastapi,angular,pytorch,sklearn)](https://skillicons.dev)
 
 ## Experience
 
@@ -29,7 +29,7 @@
 
 ### Personal Project 
 
-### [KickIn](https://github.com/bbxndg) - Under gogin
+### [KickIn](https://github.com/bbxndg) - Under going
 
 ### [X](https://github.com/bbxndg) - Blocked by `KickIn`
 
