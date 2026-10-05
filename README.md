@@ -3,7 +3,7 @@
 - **3rd** year Computer Engineering student @ **KMUTT** | **Aug 2024** - **Present**
 - Software QA Tester @ **Biggest Lab** | **May 2024** - **Present**
 - Based in Bangkok, Thailand 
-- **Mode:** Software & AI Development practitioner & learner 
+- **Mode:** Software Development & Ecosystem around it
 - A heavy user of <a href="https://open.spotify.com/user/31h3w5opf6cuv6v6k5syhqxjagsa?si=8a765c4eac224eef&nd=1&dlsi=453e1586306b45e8"><img src="https://skillicons.dev/icons?i=spotify" width="24" alt="Spotify" align="middle"></a>
 
 ## Tech 
@@ -20,7 +20,7 @@
 ## Experience
 
 ### Software Quality Assurance Tester | Biggest Lab | May 2024 - Present
-- Working mainly as a Software Tester on a core product of the company and other in contracted projects, tackling different types of software platform ranging from AI Chatbot, object storage system with Knowledge base AI and MCP integration, Gamified Ed-tech platform to Options market analysis platform. 
+- Working mainly as a Software Tester on the company's product and other contracted projects, tackling different types of software platform ranging from AI Chatbot, object storage system with Knowledge base AI and MCP integration, Gamified Ed-tech platform to Options market analysis platform. 
 
 ### Game Tester Intern | BiggestFan Productions | Feb - May 2022
 - Working as a beta tester for CryptoKnights, a real-time fighting card game that allows in-game assets to be transferred between the game and blockchains for assets like cryptocurrencies (RUBY) and NFTs (Knights, Cards and more). I focused on exploratory testing, supported UAT, regression testing, conducting game demos for stakeholders and making test cases scenarios and reports.
